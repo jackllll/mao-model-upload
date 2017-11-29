@@ -123,10 +123,10 @@
   ],
   "images": [
     {
-      "uri": "Scene%20-%20Root_baseColor.jpg"
+      "uri": "https://raw.githubusercontent.com/jackllll/mao-model-upload/master/Scene%2520-%2520Root_baseColor.jpg"
     },
     {
-      "uri": "Scene%20-%20Root_normal.png"
+      "uri": "https://raw.githubusercontent.com/jackllll/mao-model-upload/master/Scene%20-%20Root_normal.png"
     }
   ],
   "materials": [
