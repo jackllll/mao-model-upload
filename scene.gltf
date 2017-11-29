@@ -123,10 +123,10 @@
   ],
   "images": [
     {
-      "uri": "textures/Scene%20-%20Root_baseColor.jpg"
+      "uri": "Scene%20-%20Root_baseColor.jpg"
     },
     {
-      "uri": "textures/Scene%20-%20Root_normal.png"
+      "uri": "Scene%20-%20Root_normal.png"
     }
   ],
   "materials": [
